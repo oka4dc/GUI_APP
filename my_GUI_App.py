@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, Text
+import sys
 import os
 
 root = tk.Tk()
